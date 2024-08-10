@@ -5,7 +5,6 @@ import random
 import torch
 from scipy import special
 from scipy.stats import multivariate_normal
-from torchvision.transforms.functional import rgb_to_grayscale
 
 # -------------------------------------------------------------------- #
 # --------------------------- blur kernels --------------------------- #
